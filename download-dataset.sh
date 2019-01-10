@@ -21,5 +21,5 @@ echo 'bb300cfdad3c16e7a12a480ee83cd310 data/fashion/t10k-labels-idx1-ubyte.gz' |
 echo "Validation completed: No errors"
 
 echo "Unzipping data"
-gzip -dv data/fashion/*.gz
+# gzip -dv data/fashion/*.gz
 echo "Finished unzipping"
